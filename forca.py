@@ -14,6 +14,7 @@ def jogar():
 
     while(not enforcou and not acertou):
 
+
         chute = pede_chute()
 
         if(chute in palavra_secreta):
